@@ -10,7 +10,7 @@ const inter = Inter({
 
 const Footer = () => {
   return (
-    <footer className="w-full py-5 mt-auto bg-[#10025c]">
+    <footer className="w-full py-8 mt-auto bg-[#10025c]">
       <div className="container mx-auto px-4 flex justify-center items-center">
         <p className={`${inter.className} text-[12px] text-white text-center`}>
           &copy; Designed & Built by SONICPRESS &nbsp;

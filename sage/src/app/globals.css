@@ -14,6 +14,20 @@
     blink 0.7s step-end infinite;
 }
 
+.introduction {
+  margin: 1rem auto 4rem auto;
+  padding: 0 2rem;
+  max-width: 1000px;
+}
+
+.introduction {
+  p {
+    font-size: 18px;
+    line-height: 1.2;
+    padding-bottom: 24px;
+  }
+}
+
 @keyframes typing {
   from {
     width: 0;
